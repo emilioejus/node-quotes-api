@@ -5,8 +5,8 @@
     "id": 0
   },
   {
-    "quote": "ahlsdpjañfsjñjdVFSAÑASLFJIJDJFPGJDFGKHGB",
-    "author": "EMILIO UGEDA",
+    "quote": "Whatever the mind of man can conceive and believe, it can achieve.",
+    "author": "Napoleon Hill",
     "id": 1
   },
   {
@@ -508,45 +508,5 @@
     "quote": "If you can dream it, you can achieve it.",
     "author": "Zig Ziglar",
     "id": 101
-  },
-  {
-    "quote": "Yeahhhhhhhhhhhhhhhhhhhhhhhhhhh.!!!!!!!!!!!",
-    "author": "Kevin Kruse",
-    "id": 102
-  },
-  {
-    "quote": "Yeahhhhhhhhhhhhhhhhhhhhhhhhhhh.!!!!!!!!!!!",
-    "author": "Kevin Kruse",
-    "id": 103
-  },
-  {
-    "quote": "Yeahhhhhhhhhhhhhhhhhhhhhhhhhhh.!!!!!!!!!!!",
-    "author": "Kevin Kruse",
-    "id": 104
-  },
-  {
-    "quote": "Yeahhhhhhhhhhhhhhhhhhhhhhhhhhh.!!!!!!!!!!!",
-    "author": "Kevin Kruse",
-    "id": 105
-  },
-  {
-    "quote": "Yeahhhhhhhhhhhhhhhhhhhhhhhhhhh.!!!!!!!!!!!",
-    "author": "Kevin Kruse",
-    "id": 106
-  },
-  {
-    "quote": "Yeahhhhhhhhhhhhhhhhhhhhhhhhhhh.!!!!!!!!!!!",
-    "author": "Kevin Kruse",
-    "id": 107
-  },
-  {
-    "quote": "Yeahhhhhhhhhhhhhhhhhhhhhhhhhhh.!!!!!!!!!!!",
-    "author": "Kevin Kruse",
-    "id": 108
-  },
-  {
-    "quote": "Yeahhhhhhhhhhhhhhhhhhhhhhhhhhh.!!!!!!!!!!!",
-    "author": "Kevin Kruse",
-    "id": 109
   }
 ]
